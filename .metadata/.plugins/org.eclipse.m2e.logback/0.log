@@ -1,0 +1,263 @@
+2023-05-18 19:56:43,688 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-18 22:13:59,969 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [264])
+2023-05-18 22:13:59,973 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-05-18 22:13:59,973 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/aether-connector-okhttp-0.17.8.jar
+2023-05-18 22:13:59,973 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-cli-1.4.jar
+2023-05-18 22:13:59,973 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-io-2.6.jar
+2023-05-18 22:13:59,973 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/commons-lang3-3.8.1.jar
+2023-05-18 22:13:59,973 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/guice-4.2.2-no_aop.jar
+2023-05-18 22:13:59,973 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/jansi-2.4.0.jar
+2023-05-18 22:13:59,973 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-artifact-3.8.6.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-builder-support-3.8.6.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-compat-3.8.6.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-core-3.8.6.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-embedder-3.8.6.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-3.8.6.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-model-builder-3.8.6.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-plugin-api-3.8.6.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-repository-metadata-3.8.6.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-api-1.6.3.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-connector-basic-1.6.3.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-impl-1.6.3.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-provider-3.8.6.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-spi-1.6.3.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-transport-wagon-1.6.3.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-resolver-util-1.6.3.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-3.8.6.jar
+2023-05-18 22:13:59,974 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-settings-builder-3.8.6.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/maven-shared-utils-3.3.4.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okhttp-3.14.1.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/okio-1.17.3.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.inject-0.3.5.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-build-api-0.0.7.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-cipher-2.0.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-classworlds-2.6.0.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-component-annotations-2.1.0.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-interpolation-1.26.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-sec-dispatcher-2.0.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/plexus-utils-3.3.1.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-file-3.5.1.jar
+2023-05-18 22:13:59,975 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149/jars/wagon-provider-api-3.5.1.jar
+2023-05-18 22:13:59,977 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2023-05-18 22:13:59,977 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/com.google.guava_30.1.0.v20221112-0806.jar
+2023-05-18 22:13:59,978 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [426])
+2023-05-18 22:13:59,978 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/slf4j.api_1.7.36.jar
+2023-05-18 22:13:59,978 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2023-05-18 22:13:59,978 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2023-05-18 22:13:59,978 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2023-05-18 22:13:59,979 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /snap/eclipse/66/plugins/javax.annotation_1.3.5.v20221112-0806.jar
+2023-05-18 22:13:59,984 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/tmp/m2e-archetypeGenerator16595167865355771593":
+2023-05-18 22:13:59,986 [Worker-23: Launching mavenrun-3a7536e3-3262-4c23-aabf-430e1913d405] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DgroupId=Zemoso -DartifactId=TestNGPractise -Dversion=0.0.1-SNAPSHOT -Dpackage=Zemoso.TestNGPractise -DoutputDirectory=/home/debap/Desktop/POM_TestNG -Dstyle.color=always -U archetype:generate
+2023-05-18 22:44:55,439 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/debap/Desktop/POM_TestNG/TestNGPractise/pom.xml
+2023-05-18 22:44:56,072 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Zemoso:TestNGPractise:0.0.1-SNAPSHOT @ /home/debap/Desktop/POM_TestNG/TestNGPractise/pom.xml.
+2023-05-18 22:44:56,492 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestNGPractise/src/main/java
+2023-05-18 22:44:56,494 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestNGPractise/src/test/java
+2023-05-18 22:44:56,567 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-05-18 22:44:57,423 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:44:57,423 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 22:44:57,426 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:44:57,427 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 22:45:20,579 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:45:20,579 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 22:45:20,582 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:45:20,582 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 22:45:29,050 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:45:29,050 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 22:45:29,054 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:45:29,054 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 22:54:45,916 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Zemoso:TestNGPractise:0.0.1-SNAPSHOT @ /home/debap/Desktop/POM_TestNG/TestNGPractise/pom.xml.
+2023-05-18 22:54:46,351 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:54:46,351 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 22:54:46,354 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:54:46,354 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 22:54:46,655 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-18 22:54:46,795 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Zemoso:TestNGPractise:0.0.1-SNAPSHOT @ /home/debap/Desktop/POM_TestNG/TestNGPractise/pom.xml.
+2023-05-18 22:54:47,011 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestNGPractise/src/main/java
+2023-05-18 22:54:47,012 [Worker-36: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestNGPractise/src/test/java
+2023-05-18 22:54:47,083 [Worker-36: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-18 22:54:47,738 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:54:47,738 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 22:54:47,741 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:54:47,742 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 22:54:50,553 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.5/commons-codec-1.5-sources.jar
+2023-05-18 22:54:53,832 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.5/commons-codec-1.5-sources.jar
+2023-05-18 22:54:53,837 [Worker-33: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.5
+2023-05-18 22:54:59,985 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9-javadoc.jar
+2023-05-18 22:54:59,990 [Worker-33: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.poi:poi-ooxml-schemas:3.9
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:poi-ooxml-schemas:jar:javadoc:3.9
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-05-18 22:55:01,921 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-javadoc.jar
+2023-05-18 22:55:01,924 [Worker-33: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.xmlbeans:xmlbeans:2.3.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.xmlbeans:xmlbeans:jar:javadoc:2.3.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-05-18 22:55:03,135 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/openxml4j/1.0-beta/openxml4j-1.0-beta-javadoc.jar
+2023-05-18 22:55:03,139 [Worker-33: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.poi:openxml4j:1.0-beta
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:openxml4j:jar:javadoc:1.0-beta
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-05-18 22:55:03,377 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:55:03,377 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 22:55:03,380 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:55:03,380 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 22:56:09,585 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:56:09,585 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 22:56:09,586 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:56:09,586 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 22:57:22,060 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:57:22,060 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 22:57:22,062 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:57:22,062 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 22:57:58,769 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:57:58,769 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 22:57:58,772 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:57:58,772 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 22:58:11,101 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:58:11,101 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 22:58:11,103 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:58:11,103 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 22:58:22,301 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:58:22,301 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 22:58:22,303 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:58:22,303 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 22:58:36,424 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:58:36,424 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 22:58:36,426 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 22:58:36,426 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 23:05:58,004 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:05:58,004 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 23:05:58,005 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:05:58,005 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 23:06:53,874 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:06:53,874 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 23:06:53,876 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:06:53,876 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 23:12:07,741 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:12:07,741 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 23:12:07,743 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:12:07,743 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 23:14:11,586 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:14:11,587 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 23:14:11,589 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:14:11,589 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 23:16:04,419 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:16:04,419 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 23:16:04,422 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:16:04,422 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 23:16:30,080 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:16:30,080 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 23:16:30,081 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:16:30,082 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 23:19:14,071 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:19:14,072 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 23:19:14,074 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:19:14,074 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 23:23:41,717 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:23:41,717 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 23:23:41,719 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:23:41,720 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 23:24:19,677 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:24:19,677 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 23:24:19,678 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:24:19,678 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-18 23:24:29,076 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:24:29,076 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-18 23:24:29,077 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-18 23:24:29,077 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-19 08:57:03,279 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-19 09:28:04,214 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 09:28:04,226 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-19 09:28:04,230 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 09:28:04,230 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-19 09:53:09,295 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 09:53:09,295 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-19 09:53:09,298 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 09:53:09,298 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-19 09:54:33,748 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 09:54:33,749 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-19 09:54:33,751 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 09:54:33,751 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-19 09:54:53,632 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 09:54:53,632 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-19 09:54:53,633 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 09:54:53,633 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-19 10:30:38,606 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:30:38,606 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-19 10:30:38,608 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:30:38,608 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-19 10:31:52,810 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:31:52,810 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-19 10:31:52,813 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:31:52,813 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-19 10:33:25,845 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:33:25,845 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-19 10:33:25,847 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:33:25,847 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-19 10:40:35,256 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:40:35,256 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-19 10:40:35,259 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:40:35,260 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-19 10:43:50,216 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:43:50,217 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-19 10:43:50,219 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:43:50,219 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-19 10:43:54,161 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:43:54,162 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-19 10:43:54,165 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:43:54,165 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-19 10:44:05,574 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:44:05,574 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-19 10:44:05,576 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:44:05,577 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-19 10:44:17,170 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:44:17,171 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/main/resources
+2023-05-19 10:44:17,173 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 10:44:17,173 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/debap/Desktop/POM_TestNG/TestNGPractise/src/test/resources
+2023-05-19 10:45:29,399 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
